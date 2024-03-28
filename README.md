@@ -1,6 +1,16 @@
 # NLP-PROJECT
 
 
+## Project Workflow
+
+-constants
+-config_enity
+-artifact_enity
+-components
+-pipeline
+-app.py
+
+
 ## how to run?
 
 ```bash
@@ -18,3 +28,4 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
