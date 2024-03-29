@@ -14,3 +14,5 @@ TWEET = 'tweet'
 DATA_INGESTION_ARTIFACTS_DIR = "DataIngestionArtifacts"
 DATA_INGESTION_IMBALANCE_DATA_DIR = "imbalanced_data.csv"
 DATA_INGESTION_RAW_DATA_DIR = "raw_data.csv"
+
+
