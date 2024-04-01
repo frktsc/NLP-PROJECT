@@ -29,3 +29,13 @@ pip install -r requirements.txt
 python app.py
 ```
 
+# Gcloud cli
+
+## Deployment
+
+- Setting up circleCI
+- Switch on self hosted runner
+- Create Project
+- Configure EC2
+- config.yml
+- env variables
